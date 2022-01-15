@@ -3,7 +3,7 @@
 #include "TFT_eSPI.h"
 #include <Keypad.h>
 #include <string.h>
-#include "qrcode.h"
+#include "qrhelper.h"
 #include "Bitcoin.h"
 #include <Hash.h>
 #include <Conversion.h>
